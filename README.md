@@ -20,8 +20,10 @@ https://roadmap.sh/projects/unit-converter
 ## Setup
 https://nodejs.org/zh-cn/download
 Use cmd command to check if Node.js and npm are installed:
+```cmd
 node --version 
 npm --version
+```
 
 ## Project
 A simple web app that can convert between different units of measurement. It can convert units of length, weight, volume, area, temperature, and more. The user can input a value and select the units to convert from and to. The application will then display the converted value.
@@ -56,8 +58,10 @@ npm start
 
 ### Usage
 Example: Using convert length unit: (Foot->Centimeter). Left picuter is original project web format, right is length converted result after click "Convert" button:
+<div align="center">
 <img src="web1.png" width="50%" alt="origin-format">
 <img src="web2.png" width="50%" alt="length-result">
+</div>
 
 ### Task Properties
 Convert unit included:
