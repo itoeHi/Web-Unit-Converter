@@ -1,0 +1,17 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "A web-based unit converter application",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  },
+  "keywords": ["unit", "converter", "web", "app"],
+  "author": "daiyilin1425251132@qq.com",
+  "license": "ISC"
+}
